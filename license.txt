@@ -1,5 +1,5 @@
 tomado de https://github.com/parzibyte/snake.git
-
+Esto es para generar conflicto en las dos ramas con el merge
 <!--
 Copyright (c) 2017 by Luis Cabrera Benito (https://codepen.io/parzibyte/pen/VMNWzj)
 
