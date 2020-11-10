@@ -1,4 +1,5 @@
 tomado de https://github.com/parzibyte/snake.git
+Esto es para unir las dos ramas :D
 
 <!--
 Copyright (c) 2017 by Luis Cabrera Benito (https://codepen.io/parzibyte/pen/VMNWzj)
